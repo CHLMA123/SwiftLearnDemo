@@ -9,7 +9,7 @@
 import UIKit
 import Foundation
 
-let kNavigationColor = UIColor.init(colorLiteralRed: 235/255.0, green: 81/255.0, blue: 80/255.0, alpha: 1.0)
+let kNavigationColor = UIColor.init(colorLiteralRed: 222/255.0, green: 81/255.0, blue: 222/255.0, alpha: 1.0)
 
 let kNavBarHeigh  = 44.0
 let kNavBarBottom = 64.0
