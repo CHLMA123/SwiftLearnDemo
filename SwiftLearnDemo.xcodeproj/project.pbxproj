@@ -55,6 +55,7 @@
 		36F235491F13BB9E00933537 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 36F235471F13BB9E00933537 /* LaunchScreen.storyboard */; };
 		36F235541F13BB9F00933537 /* SwiftLearnDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36F235531F13BB9F00933537 /* SwiftLearnDemoTests.swift */; };
 		36F2355F1F13BB9F00933537 /* SwiftLearnDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36F2355E1F13BB9F00933537 /* SwiftLearnDemoUITests.swift */; };
+		36F910221F2233C600149097 /* NetworkTools.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36F910211F2233C600149097 /* NetworkTools.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -198,6 +199,7 @@
 		36F2355A1F13BB9F00933537 /* SwiftLearnDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftLearnDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		36F2355E1F13BB9F00933537 /* SwiftLearnDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftLearnDemoUITests.swift; sourceTree = "<group>"; };
 		36F235601F13BB9F00933537 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		36F910211F2233C600149097 /* NetworkTools.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkTools.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -346,6 +348,7 @@
 			children = (
 				36220B111F14F9DC00E2553E /* WRCycleScrollView */,
 				36220AD21F14F68000E2553E /* NetworkManager */,
+				36F910211F2233C600149097 /* NetworkTools.swift */,
 			);
 			path = Manager;
 			sourceTree = "<group>";
@@ -704,6 +707,7 @@
 				36220AC71F14F4A100E2553E /* SearchBarView.swift in Sources */,
 				36220ACE1F14F59300E2553E /* BaseViewController.swift in Sources */,
 				36220AB11F14F12800E2553E /* HomeViewController.swift in Sources */,
+				36F910221F2233C600149097 /* NetworkTools.swift in Sources */,
 				36220AB51F14F23000E2553E /* VideoViewController.swift in Sources */,
 				36F2353E1F13BB9E00933537 /* ViewController.swift in Sources */,
 				36220B151F14F9DC00E2553E /* WRCycleCell.swift in Sources */,
